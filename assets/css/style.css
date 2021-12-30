@@ -6,7 +6,7 @@
 }
 #particles-js p{
     color: #fff;
-    font-size: 24px;
+    font-size: 34px;
     font-weight: bold;
 }
 .owner{
@@ -57,4 +57,10 @@ section .Sareee{
     padding-right: 0px !important;
     max-width: 100%;
     width: 100%;
+}
+
+.copyright{
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
 }
